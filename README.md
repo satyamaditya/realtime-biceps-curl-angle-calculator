@@ -1,0 +1,2 @@
+# realtime-biceps-curl-angle-calculator
+its ADITYA JHA, in this project i detected angle between wrist &amp; shoulder while center were elbow, with the help of Computer Vision &amp; google latest library Mediapipe. its might be good initiative, my vision is to made a application where we dont need GYM TRAINER. Computer can tell &amp; judge your posture while doing exercise by their angles. and rectify our pose while we are doing exercise.
